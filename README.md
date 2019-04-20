@@ -1,3 +1,5 @@
+# THIS GEM IS TRANSFERED TO [COAXSOFT REPOSITORY](https://github.com/coaxsoft/passpartu)
+
 # Passpartu
 
 Passpartu makes policies great again (works awesome with Pundit).
